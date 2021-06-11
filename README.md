@@ -88,11 +88,12 @@ Fungsi utama yang dikembangkan dalam aplikasi ini adalah fungsi dalam peminjaman
       4. Tidak dapat memesan gedung di tanggal yang sama
 
 **Saran untuk pengembangan selanjutnya**
-      1. Menambahkan fitur informasi tentang gedung yang disewakan, seperti fitur Rincian Gedung
-      2. Dalam Rincian Gedung tersebut, terdapat informasi seperti gambar gedung, kapasitas, harga sewa, lokasi, nama penanggung jawab gedung, contact person penanggung jawab gedung, dan no rekening penanggung jawab
-      3. Menambahkan fitur untuk upload surat resmi meminjam gedung (apabila terdapat acara khusus dan menyewa gedung khusus)
-      4. Menambahkan fitur profil
-      5. Menambahkan fitur search
+      1. Ide IPB Building lebih dimatangkan lagi
+      2. Memperbaiki manajemen dalam implementasi
+      3. Menambahkan fitur informasi tentang gedung yang disewakan, seperti fitur Rincian Gedung
+      4. Dalam Rincian Gedung tersebut, terdapat informasi seperti gambar gedung, kapasitas, harga sewa, lokasi, nama penanggung jawab gedung, contact person penanggung jawab gedung, dan no rekening penanggung jawab
+      5. Menambahkan fitur untuk upload surat resmi meminjam gedung (apabila terdapat acara khusus dan menyewa gedung khusus)
+      6. Menambahkan fitur profil
 
 ## Catatan
 - Laporan terakhir dikumpul sebelum presentasi projek pada pertemuan-14. Keterlambatan pengumpulan akan mengurangi nilai.
